@@ -1,0 +1,33 @@
+Health Economic Analysis Plan
+Research question:
+What are the minimum payment rates required to financially sustain community health worker (CHW) programs providing either fee-for-service (FFS) visits or capitated per member per month (PMPM) payments?
+Target population:
+CHWs providing healthcare services in the 50 states and Puerto Rico. Services are provided to patients with chronic conditions who are enrolled in Medicaid.
+Comparators:
+Not applicable. This analysis will estimate financial sustainability of CHW programs based on local input costs, not compare different programs.
+Time horizon:
+One year (2023) with costs and wages inflated using the Consumer Price Index.
+Discounting:
+No discounting will be applied given the one-year time horizon.
+Choice of health outcomes:
+The outcomes will be:
+(i) Minimum payment rate per 30-minute CHW-patient visit (billing code 98960) in 2023 US dollars
+(ii) Minimum monthly PMPM payment rate per patient on a CHW’s panel in 2023 US dollars
+Measurement of health outcomes:
+Costs associated with both paying mechanisms will be calculated based on primary wage and cost data inputs for each state and metropolitan/non-metropolitan area. Total annual costs will be computed for a full-time CHW to determine the payment rates for each model that would meet these total costs.
+Costs:
+Costs associated with CHW and CHW supervisor labor, equipment, software, transportation, office space, benefits, and overhead will be calculated based on primary data to estimate total annual costs per full-time CHW. All costs will be reported in 2023 US dollars.
+Currency, price date, and conversion:
+All costs will be reported in 2023 US dollars, with costs inflated from base years as needed using the Consumer Price Index.
+Choice of model:
+A microsimulation model will be constructed to account for covariation of multiple input variables. The model will sample repeatedly from normal distributions around mean and standard deviation values for each input to provide mean and 95% credible interval estimates of the two outcomes.
+Uncertainty analysis:
+Uncertainty will be addressed through:
+(i) Microsimulation modeling with 10,000 runs sampling from distributions around each input to estimate 95% CIs
+(ii) Sensitivity analyses varying the CHW supervisor type (RN vs. MSW) and CHW panel size (15 to 100 patients)
+Subgroup analysis:
+Outcomes will be computed separately for each of the 50 states, Washington DC, and Puerto Rico as well as for metropolitan and non-metropolitan areas within each state.
+Validation:
+Model results will be validated through:
+(i) Comparison to available data on typical CHW program costs from private payers and Medicaid programs
+(ii) Review of model inputs, calculations, and outputs by health economists and CHW program experts
